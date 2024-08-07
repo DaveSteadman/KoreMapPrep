@@ -1,8 +1,13 @@
-https://www.solarsystemscope.com/textures/
-https://svs.gsfc.nasa.gov/4720
 
+General
+- https://www.solarsystemscope.com/textures/
 
-https://astrogeology.usgs.gov/search/map/mars_mgs_mola_mex_hrsc_blended_dem_global_200m
+Moon:
+- https://svs.gsfc.nasa.gov/4720
+- https://astrogeology.usgs.gov/search/map/moon_lro_lola_dem_118m
 
+Mars:
+- https://astrogeology.usgs.gov/search/map/mars_mgs_mola_mex_hrsc_blended_dem_global_200m
 
-https://astrogeology.usgs.gov/search/map/moon_lro_lola_dem_118m
+Celstial Sphere:
+- https://svs.gsfc.nasa.gov/4851/
