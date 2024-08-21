@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>30x30 Degree Tile Codes</name>
+<Style id="TileLabelStyle"><LabelStyle><color>ff0000ff</color><scale>1.0</scale></LabelStyle></Style>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AA</name>
+  <Point>
+    <coordinates>
+      -165,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AB</name>
+  <Point>
+    <coordinates>
+      -135,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AC</name>
+  <Point>
+    <coordinates>
+      -105,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AD</name>
+  <Point>
+    <coordinates>
+      -75,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AE</name>
+  <Point>
+    <coordinates>
+      -45,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AF</name>
+  <Point>
+    <coordinates>
+      -15,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AG</name>
+  <Point>
+    <coordinates>
+      15,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AH</name>
+  <Point>
+    <coordinates>
+      45,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AI</name>
+  <Point>
+    <coordinates>
+      75,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AJ</name>
+  <Point>
+    <coordinates>
+      105,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AK</name>
+  <Point>
+    <coordinates>
+      135,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>AL</name>
+  <Point>
+    <coordinates>
+      165,75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BA</name>
+  <Point>
+    <coordinates>
+      -165,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BB</name>
+  <Point>
+    <coordinates>
+      -135,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BC</name>
+  <Point>
+    <coordinates>
+      -105,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BD</name>
+  <Point>
+    <coordinates>
+      -75,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BE</name>
+  <Point>
+    <coordinates>
+      -45,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BF</name>
+  <Point>
+    <coordinates>
+      -15,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BG</name>
+  <Point>
+    <coordinates>
+      15,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BH</name>
+  <Point>
+    <coordinates>
+      45,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BI</name>
+  <Point>
+    <coordinates>
+      75,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BJ</name>
+  <Point>
+    <coordinates>
+      105,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BK</name>
+  <Point>
+    <coordinates>
+      135,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>BL</name>
+  <Point>
+    <coordinates>
+      165,45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CA</name>
+  <Point>
+    <coordinates>
+      -165,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CB</name>
+  <Point>
+    <coordinates>
+      -135,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CC</name>
+  <Point>
+    <coordinates>
+      -105,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CD</name>
+  <Point>
+    <coordinates>
+      -75,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CE</name>
+  <Point>
+    <coordinates>
+      -45,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CF</name>
+  <Point>
+    <coordinates>
+      -15,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CG</name>
+  <Point>
+    <coordinates>
+      15,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CH</name>
+  <Point>
+    <coordinates>
+      45,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CI</name>
+  <Point>
+    <coordinates>
+      75,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CJ</name>
+  <Point>
+    <coordinates>
+      105,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CK</name>
+  <Point>
+    <coordinates>
+      135,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>CL</name>
+  <Point>
+    <coordinates>
+      165,15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DA</name>
+  <Point>
+    <coordinates>
+      -165,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DB</name>
+  <Point>
+    <coordinates>
+      -135,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DC</name>
+  <Point>
+    <coordinates>
+      -105,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DD</name>
+  <Point>
+    <coordinates>
+      -75,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DE</name>
+  <Point>
+    <coordinates>
+      -45,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DF</name>
+  <Point>
+    <coordinates>
+      -15,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DG</name>
+  <Point>
+    <coordinates>
+      15,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DH</name>
+  <Point>
+    <coordinates>
+      45,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DI</name>
+  <Point>
+    <coordinates>
+      75,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DJ</name>
+  <Point>
+    <coordinates>
+      105,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DK</name>
+  <Point>
+    <coordinates>
+      135,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>DL</name>
+  <Point>
+    <coordinates>
+      165,-15,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EA</name>
+  <Point>
+    <coordinates>
+      -165,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EB</name>
+  <Point>
+    <coordinates>
+      -135,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EC</name>
+  <Point>
+    <coordinates>
+      -105,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>ED</name>
+  <Point>
+    <coordinates>
+      -75,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EE</name>
+  <Point>
+    <coordinates>
+      -45,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EF</name>
+  <Point>
+    <coordinates>
+      -15,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EG</name>
+  <Point>
+    <coordinates>
+      15,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EH</name>
+  <Point>
+    <coordinates>
+      45,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EI</name>
+  <Point>
+    <coordinates>
+      75,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EJ</name>
+  <Point>
+    <coordinates>
+      105,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EK</name>
+  <Point>
+    <coordinates>
+      135,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>EL</name>
+  <Point>
+    <coordinates>
+      165,-45,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FA</name>
+  <Point>
+    <coordinates>
+      -165,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FB</name>
+  <Point>
+    <coordinates>
+      -135,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FC</name>
+  <Point>
+    <coordinates>
+      -105,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FD</name>
+  <Point>
+    <coordinates>
+      -75,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FE</name>
+  <Point>
+    <coordinates>
+      -45,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FF</name>
+  <Point>
+    <coordinates>
+      -15,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FG</name>
+  <Point>
+    <coordinates>
+      15,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FH</name>
+  <Point>
+    <coordinates>
+      45,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FI</name>
+  <Point>
+    <coordinates>
+      75,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FJ</name>
+  <Point>
+    <coordinates>
+      105,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FK</name>
+  <Point>
+    <coordinates>
+      135,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <styleUrl>#TileLabelStyle</styleUrl>
+  <name>FL</name>
+  <Point>
+    <coordinates>
+      165,-75,0
+    </coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>
