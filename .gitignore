@@ -1,2 +1,6 @@
 
 *.mesh
+/Tools/KmlLatLong/bin
+/Tools/KmlLatLong/obj
+/Tools/KmlTileCodes/bin
+/Tools/KmlTileCodes/obj
